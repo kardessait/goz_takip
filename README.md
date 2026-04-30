@@ -25,6 +25,7 @@ NumPy: Göz koordinatları arasındaki Öklid mesafesinin hesaplanması.
 
 
 💻 Nasıl Çalıştırılır?
+
 Bağımlılıkları Yükleyin: ```bash pip install opencv-python mediapipe numpy ```
 
 
